@@ -1,1 +1,1 @@
-# -AI-Agent-Lab-AWS-AMI
+# AI Agent Lab AWS AMI
