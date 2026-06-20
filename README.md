@@ -22,6 +22,7 @@ What's baked in (see [`host-setup/`](https://github.com/quantiota/AI-Agent-Lab-A
 | `us-east-2` (Ohio) | `ami-0e1b7cd800de666a8` |
 | `eu-central-1` (Frankfurt) | `ami-067e0e4a6afd32b08` |
 | `ap-southeast-1` (Singapore) | `ami-0e60b60c848292caf` |
+| `ap-northeast-1` (Tokyo) | `ami-06e5983b892ef5568` |
 
 
 
