@@ -4,7 +4,7 @@ A ready-to-launch **host image** for the [AI Agent Lab](https://github.com/quant
 It's **Ubuntu 24.04** prepared with everything the lab needs to run, so you skip the host
 setup and go straight to launching the stack.
 
-What's baked in (see [`host-setup/`](host-setup/) for the exact scripts):
+What's baked in (see [`host-setup/`](https://github.com/quantiota/AI-Agent-Lab-AWS-AMI/tree/main/host-setup) for the exact scripts):
 
 - **Docker Engine** + **Compose**
 - **Prometheus 3.12** + **node_exporter** (host metrics)
